@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+    <style>
+        .content {
+          max-width: 500px;
+          margin: auto;
+        }
+        </style>        
+        <div class="content">
+            <div>
+                <head>
+                <meta charset="utf-8">
+                <title>Raki Website Design</title>
+                </head>
+                <body>
+                <body background="background.jpg" link="#000" alink="#017bf5" vlink="#000">
+                <br />
+                <h3 align="center">
+                <font face="Lato" size="6" style="color:black;">RAKI WEBSITE DESIGN</font>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <font face="cinzel" size="4" font-color: white></font>
+                <p style="color:black;">Diseñamos tu página Web personal o para empresas</p>
+                <a href="#" style="color:black;">INICIO</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#" style="color:black;">CONTACTO</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <script src="https://www.paypal.com/sdk/js?client-id=BAAK6jFg-BHZ5Q79hIk_CLx04knJCaNBrlQJOc8Or1CQlxILuizupHpkwTjMpHm2OOsbtkR6IlTpitoi6I&components=hosted-buttons&disable-funding=venmo&currency=USD"></script>
+                <div id="paypal-container-N4WAJSHBWQPFJ"></div>
+                <script>
+                paypal.HostedButtons({
+                hostedButtonId: "N4WAJSHBWQPFJ",
+                }).render("#paypal-container-N4WAJSHBWQPFJ")
+                </script>
+                </h3>
+                </body>
+        </div>
+        
+        </body>
+</div>
+</html>
